@@ -10,6 +10,8 @@ public class Main extends Application {
 
     @Override
 
+    ///new start
+
     public void start(Stage primaryStage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("fxml/view-students.fxml"));
         primaryStage.setTitle("Student Manager");
